@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\XNOTE\.android\build-cache\c33abc8df4bcb6e3d3c5182ff899e15ab185476d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\XNOTE\Documents\EasySubway\app\build\intermediates\pre-dexed\debug\classes_c6b3c3e25b27572ba8d810cde2a048d74fbe7834.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XNOTE\.android\build-cache\040753483a6dad6ec767df75cf66bd51c3d5ee04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\XNOTE\Documents\EasySubway\app\build\intermediates\pre-dexed\debug\classes_6956084408dd8435cc5b34a8ac46a8be3dbf48fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XNOTE\.android\build-cache\1c5e23be886c94df3d93eae6de777524055d24b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\XNOTE\Documents\EasySubway\app\build\intermediates\pre-dexed\debug\classes_276790159753875e049357e0b25af32f83f5a365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XNOTE\.android\build-cache\8b7651e0cd4e176b6685f49f678b257e89cef68e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\XNOTE\Documents\EasySubway\app\build\intermediates\pre-dexed\debug\classes_c0bd1ec5c97430f2f4cad59fc616e048f7923c87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XNOTE\.android\build-cache\54fdf34b652ff80cddcfa001b128335fcc56a946\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\XNOTE\Documents\EasySubway\app\build\intermediates\pre-dexed\debug\classes_c229980dbadfb367ef2e0fdd042e70cfe1599b14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XNOTE\.android\build-cache\e8afeff78665e89b7b135bc011a3c8eb0bdaae24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\XNOTE\Documents\EasySubway\app\build\intermediates\pre-dexed\debug\classes_57a96778f60b70494b786a3f58198ab4ccd14ef9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XNOTE\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\XNOTE\Documents\EasySubway\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_18b6987d1e90824fb6b4511270904d13d72ba137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XNOTE\.android\build-cache\9af7bceb2a03aaeb131a2233f9679649302d8732\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\XNOTE\Documents\EasySubway\app\build\intermediates\pre-dexed\debug\classes_06f491d736649caf52585b2adf8b5e14812ee737.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XNOTE\.android\build-cache\490ebb7cd7e152fa52fe827a8ad1d457bba9fa01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\XNOTE\Documents\EasySubway\app\build\intermediates\pre-dexed\debug\classes_7829fa6d51b3de0c212319ad822c0a42384e499e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XNOTE\.android\build-cache\dd10f2183574afddb0073d9d0cc8871d5033abdd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cfb45f4431206115e1c32985f38d1a9feb9edc">
+        <dex dex="C:\Users\XNOTE\Documents\EasySubway\app\build\intermediates\pre-dexed\debug\classes_9aef9620f9f5fbb0b1b7d992c5f64ab946a4d6a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XNOTE\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\XNOTE\Documents\EasySubway\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_a58b1a2bb83297601b0ce270df26650108b66390.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XNOTE\.android\build-cache\1a9ea45bffcc889fb6605b5aa786dd76678056ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\XNOTE\Documents\EasySubway\app\build\intermediates\pre-dexed\debug\classes_f5931dbb43faaa2bb5bcd154f85dd562b240c859.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XNOTE\.android\build-cache\0d911c70b4451700dda0cffc4b6968114bde52f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\XNOTE\Documents\EasySubway\app\build\intermediates\pre-dexed\debug\classes_4ef0eef0825b80d224ab7a8e62ec11357c1ce786.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.easysubway.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:paddingLeft="12dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="지하철정보"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:id="@+id/textmain"/>
+
+        <ImageView
+            android:id="@+id/btn_back_subway"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/btn_back_sub" />
+
+        <Button
+            android:id="@+id/Search"
+            android:background="#ffffff"
+            android:layout_width="50dp"
+            android:layout_height="55dp"
+            android:text="검색"
+            android:gravity="center"
+            android:layout_alignRight="@+id/textmain"/>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#e9e9e9" />
+
+
+    <WebView
+        android:id="@+id/line_map_webview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+</LinearLayout>
